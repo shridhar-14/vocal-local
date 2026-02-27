@@ -9,31 +9,42 @@
 👩‍💼 **Vendor Features**
 
 --Vendor registration & login
+
 --Add, update, and delete products
+
 --Manage product listings
+
 🛒 **Customer Features**
 
 --User authentication (Signup/Login)
+
 --Browse products by category
+
 --Search and filter products
 
 🔐 **Authentication & Security**
 
 --JWT-based authentication
+
 --Protected routes
+
 --Password hashing
 
 🏗️ **Tech Stack**
 
 💻 **Frontend** 
     --React.js 
+    
     --Bootstrap 
+    
     --Axios
 
 🖥️ **Backend** 
     --Node.js 
+    
     --Express.js
 
 🗄️ **Database**
     --MongoDB 
+    
     --Mongoose
