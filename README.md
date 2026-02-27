@@ -8,31 +8,32 @@
 
 👩‍💼 **Vendor Features**
 
---Vendor registration & login
+    --Vendor registration & login
 
---Add, update, and delete products
+    --Add, update, and delete products
 
---Manage product listings
+    --Manage product listings
 
 🛒 **Customer Features**
 
---User authentication (Signup/Login)
+    --User authentication (Signup/Login)
 
---Browse products by category
+    --Browse products by category
 
---Search and filter products
+    --Search and filter products
 
 🔐 **Authentication & Security**
 
---JWT-based authentication
+    --JWT-based authentication
 
---Protected routes
+    --Protected routes
 
---Password hashing
+    --Password hashing
 
 🏗️ **Tech Stack**
 
 💻 **Frontend** 
+
     --React.js 
     
     --Bootstrap 
@@ -40,11 +41,13 @@
     --Axios
 
 🖥️ **Backend** 
+
     --Node.js 
     
     --Express.js
 
 🗄️ **Database**
+
     --MongoDB 
     
     --Mongoose
